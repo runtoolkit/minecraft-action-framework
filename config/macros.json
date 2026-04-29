@@ -1,9 +1,0 @@
-{
-  "macros": [
-    {
-      "name": "demo",
-      "args": [],
-      "template": "say demo"
-    }
-  ]
-}
