@@ -30,7 +30,7 @@ data merge storage action_framework:main {\
     initialized:1b,\
     version:"2.0.0",\
     mc_version:"1.21.4",\
-    build_date:"{datetime.now().isoformat()}",\
+    build_date:"29.04.2026",\
     config:{\
         debug:0b,\
         log_actions:1b,\
