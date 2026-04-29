@@ -1,0 +1,13 @@
+{
+  "actions": [
+    {
+      "id": 1,
+      "type": "message",
+      "target": "@a",
+      "message": {
+        "text": "Hello from Action Framework!",
+        "color": "gold"
+      }
+    }
+  ]
+}

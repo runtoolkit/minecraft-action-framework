@@ -1,0 +1,11 @@
+2026-04-29 18:12:42,120 - INFO - Framework Builder v2.0.0 başlatıldı
+2026-04-29 18:12:42,122 - INFO - 16 dizin oluşturuldu
+2026-04-29 18:12:42,122 - INFO - Config yüklendi: 1 actions, 1 macros
+2026-04-29 18:12:42,123 - ERROR - Build hatası: name 'output_file' is not defined
+Traceback (most recent call last):
+  File "/workspaces/action-fw/build_fixed.py", line 92, in build
+    self.generate_load_function()
+  File "/workspaces/action-fw/build_fixed.py", line 425, in generate_load_function
+    output_file.write_text(content, encoding='utf-8')
+    ^^^^^^^^^^^
+NameError: name 'output_file' is not defined
