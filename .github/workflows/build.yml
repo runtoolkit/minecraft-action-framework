@@ -1,0 +1,11 @@
+name: Build
+
+on:
+  workflow_dispatch:
+
+jobs:
+  Build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: build
+        run: python3 build.py
