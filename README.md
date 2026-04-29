@@ -1,6 +1,6 @@
 # 🎮 Minecraft Action Framework
 
-![Version](https://img.shields.io/badge/version-2.0.0-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Minecraft](https://img.shields.io/badge/minecraft-1.21.4-green)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
